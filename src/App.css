@@ -1,0 +1,11 @@
+.container{
+  display: flex;
+}
+.checkContainer{
+  position: relative;
+}
+.checkBox{
+  position: absolute;
+  left: 0;
+  top: 0;
+}
